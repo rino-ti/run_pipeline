@@ -1,7 +1,7 @@
 # run_pipeline
 Python script, to execute another sub pipeline, while waiting for it to be finished.
 
-requirements:
+# requirements:
 - python3
   - import gitlab
   - import time, timeit
